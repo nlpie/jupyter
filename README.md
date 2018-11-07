@@ -1,2 +1,2 @@
-# Jupyter
-Jupyter Notebooks Repository
+# jupyter
+Collection of various notebooks
